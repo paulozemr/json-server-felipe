@@ -19,10 +19,10 @@
 .form-input button {
   height: 40px;
   margin-left: 1%;
-  background-color: rgb(100, 50, 150);
+  background-color: rgb(8, 124, 128);
   font-weight: bold;
   color: white;
-  border: 1px solid rgb(100, 50, 150);
+  border: 1px solid rgb(8, 124, 128);
   border-radius: 10px;
   width: 15%;
 }
@@ -41,7 +41,7 @@ table {
 }
 
 table thead {
-  background-color: rgb(100, 50, 150);
+  background-color: rgb(8, 124, 128);
   color: white;
 }
 
@@ -50,5 +50,5 @@ table thead th {
 }
 
 table tbody tr:nth-child(odd) {
-  background-color: rgba(100, 50, 150, 0.389);
+  background-color: rgba(50, 118, 150, 0.389);
 }

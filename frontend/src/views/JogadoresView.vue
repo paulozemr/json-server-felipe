@@ -58,6 +58,7 @@ export default {
           <th>ID</th>
           <th>Nome</th>
           <th>Time ID</th>
+          <th>Funções</th>
           <th>Ações</th>
         </tr>
       </thead>
@@ -66,6 +67,14 @@ export default {
           <td>{{ jogador.id }}</td>
           <td>{{ jogador.name }}</td>
           <td>{{ jogador.timeid }}</td>
+          <td><select>
+              <option disabled>...</option>
+              <option>Atacante</option>
+              <option>Goleiro</option>
+              <option>Zagueiro</option>
+              <option>Centro-avante</option>
+              <option>Laterais</option>
+          </select></td>
           <td>???</td>
         </tr>
       </tbody>

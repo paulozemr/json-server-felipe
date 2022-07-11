@@ -1,3 +1,3 @@
 <template>
-  <main>Bem-vindo</main>
+  <main>Welcome to my site</main>
 </template>

@@ -27,11 +27,11 @@ header span {
 .menu-superior {
   justify-content: space-between;
   text-decoration: none;
-  color: white;
+  color: black;
 }
 
 .menu-esquerdo .botao {
   text-decoration: none;
-  color: white;
+  color: black;
 }
 </style>
